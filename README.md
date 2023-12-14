@@ -21,4 +21,4 @@ eds-223-holc-birds-LA
 ```
 ## Data Access
 
-In order to access the data, please unzip the files here. 
+In order to access the data, please unzip the files {here} (https://drive.google.com/file/d/1lcazRbNSmP8Vj9sH1AIJcO4D1d_ulJij/view?usp=share_link]. 
