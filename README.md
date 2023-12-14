@@ -1,1 +1,7 @@
-# eds-223-holc-birds-LA
+# Historical Redlining and its Impact on Communities in LA
+
+## Purpose
+
+## Structure 
+
+## Data Access
